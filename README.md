@@ -1,10 +1,10 @@
 
-<h1 align="center"><Hello there 👋, I'm Sarnabh Haldar></h1>
+<h1 align="center">Hello there 👋, I'm Sarnabh Haldar</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderdotexe&label=Profile%20views&color=0e75b6&style=flat" alt="coderdotexe" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderdotexe" alt="coderdotexe" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderdotexe" alt="coderdotexe" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sarnabh_2310" target="blank"><img src="https://img.shields.io/twitter/follow/sarnabh_2310?logo=twitter&style=for-the-badge" alt="sarnabh_2310" /></a> </p>
 
