@@ -1,5 +1,5 @@
 <h1 align="center">Hello ✌</h1>  
-<p align="center">I'm Sarnabh, a developer 👨‍💻 working remotely since 2022</p>
+<h2 align="center">I'm Sarnabh, a developer 👨‍💻 working remotely since 2022</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderdotexe&label=Profile%20views&color=0e75b6&style=flat" alt="coderdotexe" /> </p>
 
