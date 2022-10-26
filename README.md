@@ -1,7 +1,5 @@
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-</div>  
+<h1 align="center">Hello ✌</h1>  
+<p align="center">I'm Sarnabh, a developer 👨‍💻 working remotely since 2022</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderdotexe&label=Profile%20views&color=0e75b6&style=flat" alt="coderdotexe" /> </p>
 
