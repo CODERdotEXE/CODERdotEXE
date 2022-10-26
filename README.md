@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sarnabh_2310" target="blank"><img src="https://img.shields.io/twitter/follow/sarnabh_2310?logo=twitter&style=for-the-badge" alt="sarnabh_2310" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development, Cloud Architecture**
+- 🌱 I’m currently learning **Cloud architecture**
 
 - 📫 How to reach me **sarnabhhaldar2@gmail.com**
 
