@@ -35,7 +35,6 @@
 <h3 align="left">My Holopin Board : </h3>
 
 [![@coderdotexe's Holopin board](https://holopin.me/coderdotexe)](https://holopin.io/@coderdotexe)
-
 </div>
 
 
