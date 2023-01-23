@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Cloud architecture**
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **sarnabhhaldar2@gmail.com**
 
