@@ -41,7 +41,7 @@
 
 <br>
 
-[![Sarnabh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=coderdotexe&bg_color=282828&color=dea92e&line=dea92e&point=FFFFFF&hide_border=true)](https://github.com/CODERdotEXE)
+
 
 <div align="center">
 <h3 align="left">My Holopin Board : </h3>
