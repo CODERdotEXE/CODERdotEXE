@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **sarnabhhaldar2@gmail.com**
 
+- ❤ Feel free to check my portfolio **https://sarnabhhaldar.co/**
+
 <br>
 
 <h3 align="left">Connect with me on</h3>
