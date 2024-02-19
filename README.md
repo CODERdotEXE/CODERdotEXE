@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 📫 How to reach me **sarnabhhaldar2@gmail.com**
+- 📫 How to reach me **hello@sarnabh-haldar.co**
 
-- ❤ Feel free to check my portfolio **https://sarnabhhaldar.co/**
+- ❤ Feel free to check my portfolio **https://sarnabh-haldar.co/**
 
 <br>
 
