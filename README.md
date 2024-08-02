@@ -94,7 +94,7 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/coderdotexe/Awesome-Dev-Portfolios">
+        <a href="https://github.com/coderdotexe/advo_public">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=coderdotexe&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
         </a>
       </p>
@@ -117,7 +117,13 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderdotexe&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 
----
+<h2 align="center">My Holopin Board 🎖️</h2>
+<p align="center">
+  <a href="https://holopin.io/@coderdotexe" target="_blank">
+    <img src="https://holopin.me/coderdotexe" alt="Holopin Board" />
+  </a>
+</p>
+
 
 
 <!--Contact Section--> 
