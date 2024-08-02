@@ -138,7 +138,7 @@
 <img src="./twitter.png" width=50 height=50 alt="Sarnabh_2310" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/sarnabhhaldar/" target="_blank">
+<a href="https://www.instagram.com/vibing_idiot/" target="_blank">
 <img src="./instagram.png" width=50 height=50 alt="sarnabhhaldar" style="margin-bottom: 5px;" />
 </a>
 
@@ -146,7 +146,7 @@
 <img src="./github.png" width=50 height=50 alt="coderdotexe" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/sarnabh-haldar-848546171/" target="_blank">
+<a href="https://www.linkedin.com/in/sarnabh-haldar/" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
