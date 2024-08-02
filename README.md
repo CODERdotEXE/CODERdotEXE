@@ -149,10 +149,6 @@
 <a href="https://www.linkedin.com/in/sarnabh-haldar/" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
-
-<a href="#" target="_blank">
-<img src="./dev_to.png" width=50 height=50 alt="dev_sarnabh" style="margin-bottom: 5px;" />
-</a>
 </div>
 <br/>
 
