@@ -47,7 +47,7 @@
 <ul align="left">
   <li><a href="https://medium.com/@CODERdotEXE/navigating-the-sea-of-success-stories-a-guiding-light-for-aspiring-professionals-73787d2668e5">Navigating the Sea of Success Stories: A Guiding Light for Aspiring Professionals</a></li>
   <li><a href="https://medium.com/@CODERdotEXE/unlocking-web-development-best-free-resources-and-debunking-myths-63833fff6df1">Unlocking Web Development: Best Free Resources and Debunking Myths</a></li>
-  <li><a href="<li><a href="#">Turbocharge Your Web Development: Mastering VS Code’s Tools and AI Assistants</a> - August 17, 2023</li>">Turbocharge Your Web Development: Mastering VS Code’s Tools and AI Assistants</a></li>
+  <li><a href="https://medium.com/@CODERdotEXE/turbocharge-your-web-development-mastering-vs-codes-tools-and-ai-assistants-fc7b5eeda35a">Turbocharge Your Web Development: Mastering VS Code’s Tools and AI Assistants</a></li>
   <li><a href="https://medium.com/@CODERdotEXE/dont-know-where-to-start-building-the-foundation-of-web-development-25aa6c17f177">Don’t Know Where to Start? Building the Foundation of Web Development</a></li>
 </ul>
 <br />
