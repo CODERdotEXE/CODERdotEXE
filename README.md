@@ -60,9 +60,8 @@
 <p align="center">
   <a href="https://github.com/coderdotexe">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=coderdotexe&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=coderdotexe&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=coderdotexe&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+      
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderdotexe&theme=monokai&no-frame=true&column=-1" alt="CODERdotEXE" /></a> </p>
     </picture>
   </a>
 </p>
