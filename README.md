@@ -61,7 +61,7 @@
   <a href="https://github.com/coderdotexe">
     <picture>
       
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderdotexe&theme=monokai&no-frame=true&column=-1" alt="CODERdotEXE" /></a> </p>
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderdotexe&theme=monokai&no-frame=true&column=-1&no-bg=true" alt="CODERdotEXE" /></a> </p>
     </picture>
   </a>
 </p>
